@@ -1,0 +1,45 @@
+
+@media(min-width: 768px){
+    .news-input{
+        width:50%;
+    }
+}
+
+#map {
+  width: 100%;
+  height:100%;
+  border-radius: 10px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+/* my own styling starts */
+/* .img-fluid{ */
+
+    /* transform:rotate(4deg); */
+/* } */
+
+/* let us style the menu using hover */
+
+/* .nav-item a:hover{
+    color:peru; */
+    /* background-color: black; */
+    /* text-transform: uppercase;
+
+} */
+
+/* .nav-item,li a{
+    color:white;
+    border-radius: 10px red;
+    border:10px red;
+}  */
+
+/* my own styling ends */
